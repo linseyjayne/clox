@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "variant": "c",
+        "chunk.h": "c",
+        "scanner.h": "c",
+        "__availability": "c",
+        "__config": "c",
+        "__locale": "c",
+        "bitset": "c",
+        "ios": "c",
+        "locale": "c",
+        "system_error": "c",
+        "__bit_reference": "c",
+        "__memory": "c",
+        "string": "c",
+        "compiler.h": "c",
+        "memory.h": "c"
+    }
+}
